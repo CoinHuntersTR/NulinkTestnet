@@ -152,6 +152,8 @@ docker logs -f ursula
 #### Bu şekilde çıktı aldığınızda işlemleri doğru şekilde yapmışsınız demektir
 <img alt="" src="https://miro.medium.com/max/2400/1*Y9SwHoPZCrZiOz-STTIRdQ.png">
 
+## Bu işlemlerden Sonra Bölüm-3 Devam ediyoruz. [Buradan](https://github.com/pusulafinanslabs/NulinkTestnet/blob/main/Bolum3.md) Bölüm-3 ulaşabilirsiniz.
+
 
 
 
