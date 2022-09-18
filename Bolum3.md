@@ -22,3 +22,6 @@ Yukarıdaki görsellerdeki gibi, İlk bölümde stake ettiğimiz NLK Tokenleri o
 --  Nodeniz bu işlemlerden sonra online gözükecektir. Online olması  zaman alabilir.
 
 -- Sitede node online olup sonradan offline gözükürse endişelenmeyin. 
+
+### Tüm işlemlerden sonra aşağıdaki Formu doldurup takıma iletiyoruz.
+[Form](https://docs.google.com/forms/d/e/1FAIpQLSdFhnZWG6p6XLY3xqNSMRJbFFN3_M0nRXG4E23X0RPVB6b4yA/viewform)
