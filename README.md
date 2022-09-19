@@ -115,7 +115,7 @@ Public adres için bu görsele bakarak yerini bulabilirsiniz.
 # ÖNEMLİ
 Yukarıdaki kodu girdikten sonra size ekranda;
 <img alt="" src="https://miro.medium.com/max/2400/1*W6vDkQCYDgF2k2YPNsHJmg.png">
-bu şekilde uyarı gelecek -y enter bastıktan sonra
+bu şekilde uyarı gelecek ve sadece Y harfine ve enter'a bas.
 
 # !Size anahtar kelimeleri verecek bunları bir yere not etmeden işleme devam etmeyin; Görseldeki gibi Ctrl+C işlemi yapmadan ekran resmi ile kayıt edip bir yere not edebilirsiniz.
 <img alt="" src="https://miro.medium.com/max/2400/1*VBu0LdSoDZbWV2yvfWluMg.png">
